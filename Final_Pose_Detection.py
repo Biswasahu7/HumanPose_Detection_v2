@@ -1,5 +1,7 @@
 import cv2
 import time
+
+# Creat one folder and save PoseModule in one folder and import the py file in this model
 import PoseModule as pm
 
 cap = cv2.VideoCapture("/home/vert/iCamPlus/iCamPlus.mp4")
