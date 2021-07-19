@@ -4,6 +4,7 @@ import time
 # Creat one folder and save PoseModule in one folder and import the py file in this model
 import PoseModule as pm
 
+# Give your video path/ connecct your camera to capture images
 cap = cv2.VideoCapture("/home/vert/iCamPlus/iCamPlus.mp4")
 # cap = cv2.VideoCapture("/home/vert/iCamPlus/Video.mp4")
 ptime=0
