@@ -2,6 +2,9 @@ import cv2
 import mediapipe  as mp
 import time
 
+# Youtube channal
+# https://www.youtube.com/watch?v=brwgBf6VB0I&t=2207s
+
 # Human pose detection.
 # https://google.github.io/mediapipe/solutions/pose
 # https://google.github.io/mediapipe/
